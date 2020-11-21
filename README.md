@@ -1,2 +1,2 @@
-# bulma-admin
-Admin panel using Bulma Framework
+# bulma-login
+Login Templates using Bulma Framework
